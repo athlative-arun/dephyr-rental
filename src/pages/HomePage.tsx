@@ -225,7 +225,7 @@ const HomePage: React.FC = () => {
       viewport={{ once: false, amount: 0.5 }}
     >
       <img
-        src="public\images\bikes\pngwing.com (6).png"
+        src="/images/bikes/pngwing.com (6).png"
         alt="Car"
         className="w-full h-auto object-contain"
       />
