@@ -1,0 +1,10 @@
+
+<svg width="200" height="50" viewBox="0 0 200 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="50" height="50" rx="10" fill="#0066C1"/>
+  <path d="M10 25C10 16.716 16.716 10 25 10C33.284 10 40 16.716 40 25C40 33.284 33.284 40 25 40C16.716 40 10 33.284 10 25Z" stroke="white" stroke-width="2"/>
+  <circle cx="25" cy="25" r="10" stroke="white" stroke-width="2"/>
+  <line x1="25" y1="15" x2="25" y2="35" stroke="white" stroke-width="2"/>
+  <line x1="15" y1="25" x2="35" y2="25" stroke="white" stroke-width="2"/>
+  <text x="60" y="30" font-family="Arial" font-weight="bold" font-size="18" fill="#0066C1">Bangalore</text>
+  <text x="60" y="45" font-family="Arial" font-weight="bold" font-size="18" fill="#009B41">Wheels</text>
+</svg>
